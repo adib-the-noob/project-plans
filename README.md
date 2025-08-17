@@ -1,3 +1,5 @@
+<img width="2535" height="1418" alt="image" src="https://github.com/user-attachments/assets/d6fda7f1-1f2f-4591-8aed-fd5349984177" />
+
 # Systems Trilogy: Build-Your-Own Backend Stack
 
 A hands-on, three-project journey to master networking, distributed systems, databases, and systems design by **building**:
