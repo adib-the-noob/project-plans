@@ -33,31 +33,6 @@ A hands-on, three-project journey to master networking, distributed systems, dat
 
 ---
 
-## Monorepo Structure
-
-```
-.
-├── microfast/         # Project 1 – mini FastAPI-like framework
-│   ├── microfast/     # core lib
-│   ├── examples/
-│   ├── benchmarks/
-│   └── tests/
-├── unamex/            # Project 2 – username search engine
-│   ├── api/           # stateless API service
-│   ├── ingest/        # Airflow DAGs, producers
-│   ├── workers/       # batch & stream processors
-│   ├── infra/         # docker, terraform, k8s manifests
-│   └── tests/
-├── tinyorm/           # Project 3 – simple ORM
-│   ├── tinyorm/
-│   ├── migrations/
-│   └── tests/
-├── docs/              # notes, diagrams, decisions (ADR)
-└── Makefile           # common dev tasks
-```
-
----
-
 # Project 1 — `microfast`: A Tiny FastAPI-like Framework
 
 ### Goal
