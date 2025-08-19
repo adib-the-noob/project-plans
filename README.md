@@ -298,13 +298,3 @@ make test        # pytest -q
 make lint        # ruff check
 make type        # mypy .
 ```
-
----
-
-## License
-
-MIT (see LICENSE)
-
-## Author
-
-Adib – Systems builder in training.
